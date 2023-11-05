@@ -1,7 +1,6 @@
 
 1. Dataset Generation
-We will use the Amazon reviews dataset available [here] (https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_ us_Beauty_v1_00.tsv.gz
-). Build a balanced dataset of 60K reviews along with their ratings to create labels through random selection. Considered an 80%/20% training/testing split.
+We will use the Amazon reviews dataset available. Build a balanced dataset of 60K reviews along with their ratings to create labels through random selection. Considered an 80%/20% training/testing split.
 
 2. Word Embedding 
 Generated Word2Vec features for the dataset  generated using Gensim library.
